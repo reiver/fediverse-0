@@ -16,6 +16,7 @@ These actualized technologies include:
 * [lemmy](https://lemmy.ml/)
 * [mastodon](https://joinmastodon.org/)
 * [misskey](https://join.misskey.page/)
+* [owncast](https://owncast.online/)
 * [peertube](https://joinpeertube.org/)
 * [pixelfed](https://pixelfed.org/)
 * [pleroma](https://pleroma.social/)
@@ -48,6 +49,11 @@ Here are the people who created thes **Fediverse** technologies:
   * [@gargron@mastodon.social](https://mastodon.social/@gargron)
 
 ## misskey
+
+## owncast
+
+* Gabe Kangas
+  * [@gabek@fosstodon.org](https://fosstodon.org/@gabek)
 
 ## peertube
 
