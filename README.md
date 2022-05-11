@@ -13,7 +13,7 @@ These actualized technologies include:
 * [funkwhale](https://funkwhale.audio/)
 * [gnusocial](https://www.gnusocial.rocks/)
 * [hubzilla](https://friendi.ca/)
-* [lemmy](https://lemmy.ml/)
+* [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
 * [misskey](https://join.misskey.page/)
 * [owncast](https://owncast.online/)
@@ -42,6 +42,9 @@ Here are the people who created thes **Fediverse** technologies:
 ## hubzilla
 
 ## lemmy
+
+* Dessalines
+  * [@dessalines@lemmy.ml](https://lemmy.ml/u/dessalines)
 
 ## mastodon
 
