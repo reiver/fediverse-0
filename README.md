@@ -40,7 +40,7 @@ Here are the people who created thes **Fediverse** technologies:
 ## gnusocial
 
 * Matt Lee
-  * [@mattl@mastodon.social](https://mastodon.social/@mattl)
+  * [@mattl@xoxo.zone](https://xoxo.zone/@mattl)
 
 ## hubzilla
 
