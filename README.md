@@ -68,6 +68,9 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## pleroma
 
+* "lain"
+  * [@lain@pleroma.soykaf.com](https://pleroma.soykaf.com/users/lain)
+
 ## writefreely
 
 * Matt Baer
