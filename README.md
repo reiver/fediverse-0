@@ -63,6 +63,7 @@ Here are the people who created thes **Fediverse** technologies:
 ## pixelfed
 
 * Daniel
+  * [@dansup@pixelfed.social](https://pixelfed.social/dansup)
   * [@dansup@mastodon.social](https://mastodon.social/@dansup)
 
 ## pleroma
