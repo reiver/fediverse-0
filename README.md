@@ -53,3 +53,6 @@ Here are the people who created thes **Fediverse** technologies:
 ## pleroma
 
 ## writefreely
+
+* Matt Baer
+  * [@matt@writing.exchange](https://writing.exchange/@matt)
