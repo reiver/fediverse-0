@@ -39,6 +39,9 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## gnusocial
 
+* Matt Lee
+  * [@mattl@mastodon.social](https://mastodon.social/@mattl)
+
 ## hubzilla
 
 ## lemmy
