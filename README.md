@@ -20,3 +20,36 @@ These actualized technologies include:
 * [pixelfed](https://pixelfed.org/)
 * [pleroma](https://pleroma.social/)
 * [writefreely](https://writefreely.org/)
+
+And specific people created and continue to develop these technologies.
+
+Here are the people who created thes **Fediverse** technologies:
+
+## bookwyrm
+
+* Mouse Reeve
+  * [@tripofmice@friend.camp](https://friend.camp/@tripofmice)
+
+## diaspora*
+
+## friendica
+
+## funkwhale
+
+## gnusocial
+
+## hubzilla
+
+## lemmy
+
+## mastodon
+
+## misskey
+
+## peertube
+
+## pixelfed
+
+## pleroma
+
+## writefreely
