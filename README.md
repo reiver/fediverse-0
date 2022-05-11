@@ -44,11 +44,17 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## mastodon
 
+* Eugen Rochko
+  * [@gargron@mastodon.social](https://mastodon.social/@gargron)
+
 ## misskey
 
 ## peertube
 
 ## pixelfed
+
+* Daniel
+  * [@dansup@mastodon.social](https://mastodon.social/@dansup)
 
 ## pleroma
 
