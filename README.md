@@ -37,6 +37,11 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## funkwhale
 
+## gitea
+
+* Anthony Wang
+  * [@ta180m@exozy.me]() 
+
 ## gnusocial
 
 * Matt Lee
