@@ -12,6 +12,7 @@ These actualized technologies include:
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
 * [gnusocial](https://www.gnusocial.rocks/)
+* [gotosocial](https://docs.gotosocial.org/)
 * [hubzilla](https://friendi.ca/)
 * [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
@@ -46,6 +47,11 @@ Here are the people who created thes **Fediverse** technologies:
 
 * Matt Lee
   * [@mattl@xoxo.zone](https://xoxo.zone/@mattl)
+
+## gotosocial
+
+"f0x", "f0x52"
+  * [@f0x@social.pixie.town](https://social.pixie.town/@f0x)
 
 ## hubzilla
 
