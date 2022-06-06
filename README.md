@@ -41,7 +41,7 @@ Here are the people who created thes **Fediverse** technologies:
 ## gitea
 
 * Anthony Wang
-  * [@ta180m@exozy.me]() 
+  * [@ta180m@exozy.me](https://social.exozy.me/@ta180m@) 
 
 ## gnusocial
 
