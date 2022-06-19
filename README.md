@@ -8,6 +8,7 @@ The **Fediverse** exists as a set of actualized technologies.
 These actualized technologies include:
 
 * [bookwyrm](https://joinbookwyrm.com/)
+* [castopod](https://castopod.org/)
 * [diaspora](https://diasporafoundation.org/)
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
@@ -31,6 +32,8 @@ Here are the people who created thes **Fediverse** technologies:
 
 * Mouse Reeve
   * [@tripofmice@friend.camp](https://friend.camp/@tripofmice)
+
+## castopod
 
 ## diaspora
 
