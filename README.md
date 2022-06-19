@@ -12,6 +12,7 @@ These actualized technologies include:
 * [diaspora](https://diasporafoundation.org/)
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
+* [gitea](https://gitea.io/)
 * [gnusocial](https://www.gnusocial.rocks/)
 * [gotosocial](https://docs.gotosocial.org/)
 * [hubzilla](https://friendi.ca/)
