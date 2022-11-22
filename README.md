@@ -16,6 +16,7 @@ These actualized technologies include:
 * [gitea](https://gitea.io/)
 * [gnusocial](https://www.gnusocial.rocks/)
 * [gotosocial](https://docs.gotosocial.org/)
+* [greatape](https://github.com/reiver/greatape)
 * [hubzilla](https://friendi.ca/)
 * [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
@@ -62,6 +63,16 @@ Here are the people who created thes **Fediverse** technologies:
 
 "f0x", "f0x52"
   * [@f0x@social.pixie.town](https://social.pixie.town/@f0x)
+
+## greatape
+
+* Charles Iliya Krempeaux
+  * [@reiver@mastodon.social](https://mastodon.social/@reiver)
+
+* Chris Trottier
+  * [@atomicpoet@mastodon.social](https://mastodon.social/@atomicpoet) 
+  * [@atomicpoet@vancity.social](https://vancity.social/@atomicpoet)
+  * [@atomicpoet@peerverse.space](https://peerverse.space/atomicpoet)
 
 ## hubzilla
 
