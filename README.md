@@ -8,6 +8,7 @@ The **Fediverse** exists as a set of actualized technologies.
 These actualized technologies include:
 
 * [bookwyrm](https://joinbookwyrm.com/)
+* [calckey](https://codeberg.org/thatonecalculator/calckey)
 * [castopod](https://castopod.org/)
 * [diaspora](https://diasporafoundation.org/)
 * [friendica](https://friendi.ca/)
@@ -33,6 +34,11 @@ Here are the people who created thes **Fediverse** technologies:
 
 * Mouse Reeve
   * [@tripofmice@friend.camp](https://friend.camp/@tripofmice)
+
+## calckey
+
+* "ThatOneCalculator"
+  * [@thatonecalculator@stop.voring.me](https://stop.voring.me/@thatonecalculator)
 
 ## castopod
 
