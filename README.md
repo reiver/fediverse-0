@@ -7,6 +7,7 @@ A list of the people who created and continue to develop the **Fediverse** techn
 The **Fediverse** exists as a set of actualized technologies.
 These actualized technologies include:
 
+* [akkoma](https://akkoma.dev/AkkomaGang/akkoma)
 * [bookwyrm](https://joinbookwyrm.com/)
 * [calckey](https://codeberg.org/thatonecalculator/calckey)
 * [castopod](https://castopod.org/)
@@ -30,6 +31,8 @@ These actualized technologies include:
 And specific people created and continue to develop these technologies.
 
 Here are the people who created thes **Fediverse** technologies:
+
+## akkoma
 
 ## bookwyrm
 
