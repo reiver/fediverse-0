@@ -20,6 +20,7 @@ These actualized technologies include (in alphabetical order):
 * [gotosocial](https://docs.gotosocial.org/)
 * [greatape](https://github.com/reiver/greatape)
 * [hubzilla](https://friendi.ca/)
+* [kbin](https://kbin.pub/)
 * [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
 * [misskey](https://join.misskey.page/)
@@ -82,6 +83,8 @@ Here are the people who created thes **Fediverse** technologies:
   * [@atomicpoet@peerverse.space](https://peerverse.space/atomicpoet)
 
 ## hubzilla
+
+## kbin
 
 ## lemmy
 
