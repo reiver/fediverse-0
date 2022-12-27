@@ -43,6 +43,7 @@ These actualized technologies include (in alphabetical order):
 * [soapbox](https://github.com/soapbox-pub/soapbox)
 * [takahe](https://github.com/jointakahe/takahe)
 * [writefreely](https://writefreely.org/)
+* [zap](https://codeberg.org/zot/zap)
 
 And specific people created and continue to develop these technologies.
 
@@ -165,3 +166,5 @@ Here are the people who created thes **Fediverse** technologies:
 
 * Matt Baer
   * [@matt@writing.exchange](https://writing.exchange/@matt)
+
+## zap
