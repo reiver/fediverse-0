@@ -14,6 +14,7 @@ These actualized technologies include (in alphabetical order):
 * [calckey](https://codeberg.org/thatonecalculator/calckey)
 * [castopod](https://castopod.org/)
 * [diaspora](https://diasporafoundation.org/)
+* [epicyon](https://epicyon.net/)
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
 * [gitea](https://gitea.io/)
@@ -55,6 +56,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## castopod
 
 ## diaspora
+
+## epicyon
 
 ## friendica
 
