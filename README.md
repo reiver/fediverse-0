@@ -36,6 +36,7 @@ These actualized technologies include (in alphabetical order):
 * [peertube](https://joinpeertube.org/)
 * [pixelfed](https://pixelfed.org/)
 * [pleroma](https://pleroma.social/)
+* [plume](https://joinplu.me/)
 * [writefreely](https://writefreely.org/)
 
 And specific people created and continue to develop these technologies.
@@ -139,6 +140,8 @@ Here are the people who created thes **Fediverse** technologies:
 
 * "lain"
   * [@lain@pleroma.soykaf.com](https://pleroma.soykaf.com/users/lain)
+
+## plume
 
 ## writefreely
 
