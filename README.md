@@ -38,6 +38,7 @@ These actualized technologies include (in alphabetical order):
 * [pleroma](https://pleroma.social/)
 * [plume](https://joinplu.me/)
 * [prismo](https://gitlab.com/mbajur/prismo)
+* [rebased](https://github.com/soapbox-pub/rebased)
 * [writefreely](https://writefreely.org/)
 
 And specific people created and continue to develop these technologies.
@@ -148,6 +149,8 @@ Here are the people who created thes **Fediverse** technologies:
 
 *  Michał Bajur
   *  [@mbajur@mastodon.social](https://mastodon.social/@mbajur)
+
+## rebased
 
 ## writefreely
 
