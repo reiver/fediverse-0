@@ -40,6 +40,7 @@ These actualized technologies include (in alphabetical order):
 * [prismo](https://gitlab.com/mbajur/prismo)
 * [rebased](https://github.com/soapbox-pub/rebased)
 * [smithereen](https://github.com/grishka/Smithereen)
+* [soapbox](https://github.com/soapbox-pub/soapbox)
 * [writefreely](https://writefreely.org/)
 
 And specific people created and continue to develop these technologies.
@@ -154,6 +155,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## rebased
 
 ## smithereen
+
+## soapbox
 
 ## writefreely
 
