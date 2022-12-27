@@ -9,6 +9,7 @@ The **Fediverse** exists as a set of actualized technologies.
 These actualized technologies include (in alphabetical order):
 
 * [akkoma](https://akkoma.dev/AkkomaGang/akkoma)
+* [bonfire](https://bonfirenetworks.org/)
 * [bookwyrm](https://joinbookwyrm.com/)
 * [calckey](https://codeberg.org/thatonecalculator/calckey)
 * [castopod](https://castopod.org/)
@@ -38,6 +39,8 @@ Here are the people who created thes **Fediverse** technologies:
 
 * "FloatingGhost"
   * [@FloatingGhost@ihatebeinga.live](https://ihatebeinga.live/FloatingGhost)
+
+## bonfire
 
 ## bookwyrm
 
