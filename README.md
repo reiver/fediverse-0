@@ -17,6 +17,7 @@ These actualized technologies include (in alphabetical order):
 * [epicyon](https://epicyon.net/)
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
+* [gancio](https://gancio.org/)
 * [gitea](https://gitea.io/)
 * [gnusocial](https://www.gnusocial.rocks/)
 * [gotosocial](https://docs.gotosocial.org/)
@@ -62,6 +63,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## friendica
 
 ## funkwhale
+
+## gancio
 
 ## gitea
 
