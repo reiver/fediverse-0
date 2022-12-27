@@ -30,6 +30,7 @@ These actualized technologies include (in alphabetical order):
 * [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
 * [misskey](https://join.misskey.page/)
+* [mobilizon](https://joinmobilizon.org/e)
 * [owncast](https://owncast.online/)
 * [peertube](https://joinpeertube.org/)
 * [pixelfed](https://pixelfed.org/)
@@ -115,6 +116,8 @@ Here are the people who created thes **Fediverse** technologies:
   * [@gargron@mastodon.social](https://mastodon.social/@gargron)
 
 ## misskey
+
+## mobilizon
 
 ## owncast
 
