@@ -26,6 +26,7 @@ These actualized technologies include (in alphabetical order):
 * [hubzilla](https://friendi.ca/)
 * [immers space](https://web.immers.space/)
 * [kbin](https://kbin.pub/)
+* [ktistec](https://github.com/toddsundsted/ktistec)
 * [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
 * [misskey](https://join.misskey.page/)
@@ -100,6 +101,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## immers space
 
 ## kbin
+
+## ktistec
 
 ## lemmy
 
