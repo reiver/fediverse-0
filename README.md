@@ -41,6 +41,7 @@ These actualized technologies include (in alphabetical order):
 * [rebased](https://github.com/soapbox-pub/rebased)
 * [smithereen](https://github.com/grishka/Smithereen)
 * [soapbox](https://github.com/soapbox-pub/soapbox)
+* [socialhome](https://gitlab.com/jaywink/socialhome)
 * [takahe](https://github.com/jointakahe/takahe)
 * [writefreely](https://writefreely.org/)
 * [zap](https://codeberg.org/zot/zap)
@@ -159,6 +160,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## smithereen
 
 ## soapbox
+
+## socialhome
 
 ## takahe
 
