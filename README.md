@@ -24,6 +24,7 @@ These actualized technologies include (in alphabetical order):
 * [greatape](https://github.com/reiver/greatape)
 * [guppe](https://a.gup.pe/)
 * [hubzilla](https://friendi.ca/)
+* [immers space](https://web.immers.space/)
 * [kbin](https://kbin.pub/)
 * [lemmy](https://join-lemmy.org/)
 * [mastodon](https://joinmastodon.org/)
@@ -95,6 +96,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## guppe
 
 ## hubzilla
+
+## immers space
 
 ## kbin
 
