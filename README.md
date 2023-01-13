@@ -113,6 +113,9 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## kbin
 
+* Ernest Wisniewski
+  * [@ernest@karab.in](https://karab.in/u/ernest)
+
 ## ktistec
 
 ## lemmy
