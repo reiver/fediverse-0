@@ -171,6 +171,9 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## takahe
 
+* Andrew Godwin
+  * [@andrew@aeracode.org](https://aeracode.org/@andrew)
+
 ## writefreely
 
 * Matt Baer
