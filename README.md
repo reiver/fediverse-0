@@ -16,6 +16,7 @@ These actualized technologies include (in alphabetical order):
 * [decodon](https://github.com/jesseplusplus/decodon)
 * [diaspora](https://diasporafoundation.org/)
 * [epicyon](https://epicyon.net/)
+* [forgejo](https://forgejo.org/)
 * [frequency](https://frequency.app/about) (not open-source ?)
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
@@ -80,6 +81,8 @@ Here are the people who created thes **Fediverse** technologies:
 ## diaspora
 
 ## epicyon
+
+## forgejo
 
 ## frequency (not open-source?)
 
