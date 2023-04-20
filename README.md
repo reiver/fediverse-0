@@ -13,8 +13,10 @@ These actualized technologies include (in alphabetical order):
 * [bookwyrm](https://joinbookwyrm.com/)
 * [calckey](https://codeberg.org/thatonecalculator/calckey)
 * [castopod](https://castopod.org/)
+* [decodon](https://github.com/jesseplusplus/decodon)
 * [diaspora](https://diasporafoundation.org/)
 * [epicyon](https://epicyon.net/)
+* [frequency](https://frequency.app/about) (not open-source ?)
 * [friendica](https://friendi.ca/)
 * [funkwhale](https://funkwhale.audio/)
 * [gancio](https://gancio.org/)
@@ -70,9 +72,19 @@ Here are the people who created thes **Fediverse** technologies:
 
 ## castopod
 
+## decodon
+
+* Jesse Karmani
+  * [@jesseplusplus@mastodon.social](https://mastodon.social/@jesseplusplus)
+
 ## diaspora
 
 ## epicyon
+
+## frequency (not open-source?)
+
+* Jesse Karmani
+  * [@jesseplusplus@mastodon.social](https://mastodon.social/@jesseplusplus)
 
 ## friendica
 
